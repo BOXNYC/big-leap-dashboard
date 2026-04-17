@@ -31,6 +31,7 @@ A lightweight, task-driven web application that enables structured collaboration
   - Supabase (Postgres + Auth + Storage, [HIPAA add-on](https://supabase.com/docs/guides/security/soc-2-compliance))
     - *Supabase was chosen as it is SOC 2 compliant as well as HIPAA with a $7k add on. Being v1 needs to be completed in 6–8 weeks, and SOC 2 compliance can take weeks or months to achieve, Supabase can provide compliance without a delay.*
   - **Row-level security for strict practice-level data isolation**
+  - **Kysely** A type-safe SQL query builder specifically designed for TypeScript. Works very well with Supabase PosgreSQL.  *Personal preference*
 
 ### Core System Model
 
